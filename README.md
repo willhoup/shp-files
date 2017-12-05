@@ -1,2 +1,2 @@
 # shp-files
-Here's a bunch of shp files
+Will organize by state and then by region, city or topic.
